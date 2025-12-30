@@ -443,3 +443,7 @@ To extend this lab:
 **Lab Completed Successfully! 🎉**
 
 For questions or issues, refer to the troubleshooting section or review the inline code comments.
+
+## Verification Test
+
+Testing docs-only detection.
